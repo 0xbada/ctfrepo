@@ -1,0 +1,12 @@
+# Realistic Steam Appliance: CountUp2Down (BSidesSF 2018 CTF)
+
+## Description
+
+>>>
+4) CountUp 2 CountDown service
+
+Engineering has setup the prototype for our timer and synchronization source. All our valves need to stay in sync and this service will establish the appropriate timing. Take a look at the capture to see if it meets our needs.
+>>>
+
+## Links
+* https://ctf.bsidessf.net/challenges/
